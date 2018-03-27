@@ -1,6 +1,7 @@
 # mpa-demo
 
 > vue多入口文件脚手架
+
 ### 集成axios/vue-router/vuex/jquery并且使用jquery时无需引用。
 ### 集成babel/sass
 ### 项目结构
@@ -32,7 +33,7 @@
 │          ├─components  test组件
 │          ├─router  test路由文件
 │          ├─App.vue  testvue
-│          ├─test.html  testhtml **<font>注意</font>**
+│          ├─test.html  testhtml **注意**
 │          └─test.js  test入口js **注意**
 ├─static
 │  ├─css  所有网页公用字体文件
